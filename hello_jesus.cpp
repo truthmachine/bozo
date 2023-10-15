@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-  cout<<"Hello Jesus"<<endl;
+  cout<<"Hello Krishna"<<endl;
   return(0);
 }
